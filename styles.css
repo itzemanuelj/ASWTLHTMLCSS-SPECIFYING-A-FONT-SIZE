@@ -1,0 +1,73 @@
+/* 1. What are the first 10 characters for specifying how big you want font size? */
+p{
+    font-size: 1em;
+}
+/* 2. What unit of measurement do I recommend for specifying font-size? (3 characters) */
+p{
+    font-size: 1em;
+}
+/* style paragraphs so the text is 175% of the default. */
+p{
+    font-size: 1.75em;
+}
+/* Specify the font size as twice the default size. */
+p{
+    font-size: 2em;
+}
+/* Specify for the third largest heading a font-size that's twice the default text size. Don't forget to indent the second line two spaces. */
+h3{
+    font-size: 2em;
+}
+/* 8. How do you say you want it to be 2-1/2 times the default size? */
+p{
+    font-size: 2.5em;
+}
+/* 9. Write code specifying any size you like for paragraphs. */
+h2{
+    font-size: 1em;
+}
+/* 11. Style paragraphs the same as the default size. */
+p{
+    font-size: 1em;
+}
+/* 12. Style the font-size (your choice) for your choice of paragraph or heading. */
+p{
+    font-size: 2em;
+}
+/* 13. Time goal: 30 seconds. Specify for the third largest heading a font-size that's twice the default text size. Don't forget to indent the second line two spaces. */
+h3{
+    font-size: 2em;
+}
+/* 14. Time goal: 20 seconds. How do you say you want it to be 2-1/2 times the default size? */
+p{
+    font-size: 2.5em;
+}
+/* 15. Time goal: 30 seconds. Write code specifying any size you like for paragraphs. */
+p{
+    font-size: 1em;
+}
+/* 16. Time goal: 30 seconds. Style any size of headings three-quarters of the default size. */
+p{
+    font-size: 0.75em;
+}
+/* 17. Time goal: 25 seconds. Style paragraphs the same as the default size. */
+p{
+    font-size: 1em
+}
+/* <!--
+
+A SMARTER WAY TO LEARN HTML & CSS
+CHAPTER 6 EXERCISE 19
+
+1. Specify font-sizes for h2 headings and paragraphs in the CSS panel on the right.
+
+2. In this panel, starting on line 16 below, write an h2 heading and a paragraph.
+
+3. Click Run in the menu above. See your result in the lower-right panel. If it's not the result you want, revise your code.
+
+(Find a copy of the completed assignment at http://jsfiddle.net/ASmarterWayToLearn/vjvjmqbe/)
+
+--> */
+h2 p{
+    font-size: 1em;
+}
